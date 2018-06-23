@@ -1,0 +1,110 @@
+
+body,html{
+	margin: 0;
+	padding: 0;
+}
+
+.top{
+	background-color: #000d80;
+	height: 100px;
+    color: white;
+   
+	/*margin: auto;*/
+}
+
+.top img{
+	width: 300px;
+	margin-left: 50px;
+}
+#logo{
+	padding-top: 10px;
+	
+	height: 50px;
+	/*height: 200px;*/
+}
+.line{
+	background-color: #002080;
+	height: 100px;
+	color: white;
+	text-align: center;
+}
+
+.registration{
+	padding-top: 20px;
+	background-color: #dfbf9f;
+	height:100px;
+}
+.container{
+	padding-top: 10px;
+
+}
+.footer{
+	display: inline-block;
+    padding-bottom: 10px;
+    padding-top: 25px;
+	color: #fff;
+	font-weight: 400;
+	text-decoration: none;
+	height: 80px;
+	width: 100%;
+	background: #00004d;
+	
+	bottom: 0px;
+
+}
+.form{
+	margin-left: 400px;
+}
+.user{
+	/*padding-left: 100px;*/
+	/*margin-left: 190px;*/
+	margin-top: 40px;
+	color: #fff;
+	}
+.hover>a{
+	color:white;
+	
+	 
+}
+.logout{
+	text-decoration: none;
+	color: #fff;
+	margin-top: 50px;
+}
+.logout>a{
+	color: #fff;
+	text-decoration: none;
+}
+.hover>a:hover{
+	color: yellow;
+	text-transform: uppercase;
+	text-decoration: none; 
+	 
+
+
+}
+
+.text{
+	margin-top: 220px;
+}
+.admin_acc{
+	margin-top: 50px;
+
+}
+.admin_acc>a{
+		text-decoration: none;
+	color: white;
+}
+.admin_acc>a:hover{
+	text-decoration: none;
+	// color:yellow;
+	// text-transform: uppercase;
+}
+.new_title{
+	margin-top: 40px;
+
+}
+.result{
+	height:50px;
+	background-color: #fff; 
+}
